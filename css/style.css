@@ -81,3 +81,37 @@ nav ul .header-links a {
     border: #e5e7eb 2px solid;
     border-radius: 50px;
 }
+
+.photo-section {
+    background-color: #fff;
+}
+
+.photo-heading {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding: 25px 75px;
+    margin-top: 50px;
+}
+
+.photo-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.photo-info img {
+    border-radius: 10px;
+    border: 5px solid #3882f6;
+    height: 200px;
+    width: 300px;
+}
+
+.photo-info p {
+    text-align: center;
+}
+
